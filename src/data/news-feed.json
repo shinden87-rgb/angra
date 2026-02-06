@@ -1,5 +1,37 @@
 [
   {
+    "id": "new-2025-6",
+    "title": "植物性 vs 動物性タンパク質：筋肥大と筋力への効果に「差はない」とする最新システマティック・レビュー (2025)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39813010/",
+    "date": "2025-01-15",
+    "source_domain": "PubMed (Nutr Rev)",
+    "study_type": "Syst. Review & Meta-Analysis"
+  },
+  {
+    "id": "new-2025-5",
+    "title": "超加工食品と32の健康リスク：死亡率・メンタルヘルスへの悪影響を網羅した「アンブレラ・レビュー」の結論 (2024)",
+    "source_url": "https://www.bmj.com/content/384/bmj-2023-077310",
+    "date": "2024-02-28",
+    "source_domain": "BMJ",
+    "study_type": "Umbrella Review"
+  },
+  {
+    "id": "new-2025-4",
+    "title": "カフェインと筋力・筋持久力：メタ分析のメタ分析が示す「確実な効果」とその限界 (2024)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39170391/",
+    "date": "2024-07-25",
+    "source_domain": "PubMed (Heliyon)",
+    "study_type": "Umbrella Meta-Analysis"
+  },
+  {
+    "id": "new-2025-3",
+    "title": "時間制限食(TRE)の減量効果は「カロリー制限」が主因か？概日リズムとの関連を探るメタ分析 (2024)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38357669/",
+    "date": "2024-01-26",
+    "source_domain": "PubMed (iScience)",
+    "study_type": "Syst. Review & Meta-Analysis"
+  },
+  {
     "id": "new-2025-1",
     "title": "睡眠不足の代償：アスリートのスピード・スキル・持久力への悪影響を数値化する (2025)",
     "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full",
