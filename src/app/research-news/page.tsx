@@ -47,7 +47,7 @@ export default function ResearchNewsPage() {
                             Evidence-Based Hub
                         </div>
                         <h1 className="text-4xl md:text-7xl font-black mb-6 tracking-tighter bg-gradient-to-r from-white via-blue-200 to-blue-400 bg-clip-text text-transparent italic leading-[1.1]">
-                            Research Archive
+                            Buddy Research Archive
                         </h1>
                         <div className="relative inline-block">
                             <p className="text-xl md:text-2xl text-gray-400 font-medium tracking-wide">

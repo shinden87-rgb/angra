@@ -19,6 +19,7 @@ WordPressへの自動投稿を**完全に廃止**し、信頼できる学術論�
    - `source_url`: **検証済み**の正しい原文URL
    - `date`: その日の日付 (YYYY-MM-DD)
    - `source_domain`: サイト名 (PubMed, ArXiv等)
+   - `study_type`: 研究タイプ (Meta-Analysis, Syst. Review, Original Studyなど) ※UIで色分けされます
 4. **ファイル更新**: `src/data/news-feed.json` を上書き保存します。
 
 ## 制約
