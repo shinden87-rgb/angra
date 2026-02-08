@@ -1,29 +1,29 @@
 [
   {
-    "id": "new-2025-behavior-3",
-    "title": "「週2回のサボり」が継続の鍵？柔軟な目標設定（Emergency Reserves）が習慣化率を劇的に高める行動科学的実証 (2024)",
-    "source_url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4255",
-    "date": "2024-03-15",
-    "source_domain": "Management Science",
-    "study_type": "Original Study",
-    "category": "Behavior"
-  },
-  {
-    "id": "new-2025-behavior-2",
-    "title": "音楽と限界突破：好みの曲を聴くことが筋持久力と「主観的疲労度」に与える心理生理学的効果のメタ分析 (2025)",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38234567/",
-    "date": "2025-02-10",
-    "source_domain": "Psychol Sport Exerc",
+    "id": "new-2026-music",
+    "title": "好みの音楽と限界突破：筋持久力・最大筋力・モチベーションへの効果を示す最新メタ分析 (2026)",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12859869/",
+    "date": "2026-02-03",
+    "source_domain": "PMC (Frontiers)",
     "study_type": "Meta-Analysis",
     "category": "Mindset"
   },
   {
-    "id": "new-2025-behavior-1",
-    "title": "脳の疲労は身体を止めるか？「精神的疲労」が持久系パフォーマンスを低下させるメカニズムと対策 (2024)",
-    "source_url": "https://link.springer.com/article/10.1007/s40279-024-01990-x",
-    "date": "2024-06-20",
-    "source_domain": "Sports Med",
+    "id": "new-2025-adherence",
+    "title": "運動を続ける技術：専門家のサポートとグループワークが「継続率」を最大化するシステマティックレビュー (2025)",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12784378/",
+    "date": "2025-01-09",
+    "source_domain": "PMC",
     "study_type": "Syst. Review",
+    "category": "Behavior"
+  },
+  {
+    "id": "new-2024-fatigue",
+    "title": "脳の疲労は怪我のリスクも高める：精神的疲労がパフォーマンスと安全性に及ぼす影響の最新レビュー (2024)",
+    "source_url": "https://journals.humankinetics.com/view/journals/ijspp/19/10/article-p1158.xml",
+    "date": "2024-10-01",
+    "source_domain": "IJSPP",
+    "study_type": "Review",
     "category": "Recovery"
   },
   {
