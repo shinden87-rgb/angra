@@ -74,14 +74,21 @@ export default function Home() {
       <div className="fixed bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-pink-600/10 rounded-full blur-[120px] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto relative z-10">
-        {/* Back Link */}
-        <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} className="mb-8">
-          {/* 必要であればここに正しいトップページのURLを入れてください */}
-          <Link href="https://buddy-nk.com/" className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors group">
-            <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
-            <span className="font-bold tracking-wide">Back to Buddy</span>
-          </Link>
-        </motion.div>
+        {/* Back Link - Fixed positioning to guarantee clickability */}
+        <div className="fixed top-6 left-6 z-[9999]">
+          {/* 標準のaタグに戻し、固定配置でクリックイベントの阻害を回避 */}
+          <a
+            href="https://buddy-nk.com/"
+            onClick={(e) => e.stopPropagation()}
+            className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors group px-4 py-2 rounded-full bg-[#0a0c10]/80 backdrop-blur-md border border-white/10 shadow-lg cursor-pointer select-none"
+          >
+            <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform pointer-events-none" />
+            <span className="font-bold tracking-wide pointer-events-none">Return to Buddy Home</span>
+          </a>
+        </div>
+
+        {/* Spacer to keep layout consistent now that back link is fixed */}
+        <div className="h-20" />
 
         <header className="mb-12">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="relative">
