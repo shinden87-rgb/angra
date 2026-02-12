@@ -1,20 +1,47 @@
 [
   {
-    "id": "new-2024-digital-habit",
-    "title": "アプリで習慣は作れるか？デジタル介入における「セルフモニタリング」と「ゴール設定」の有効性 (2024)",
-    "source_url": "https://doi.org/10.2196/54375",
-    "date": "2024-05-24",
-    "source_domain": "JMIR",
-    "study_type": "Syst. Review",
-    "category": "Tech"
+    "id": "new-2026-music",
+    "title": "好みの音楽と限界突破：筋持久力・最大筋力・モチベーションへの効果を示す最新メタ分析 (2026)",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12859869/",
+    "date": "2026-02-03",
+    "source_domain": "PMC (Frontiers)",
+    "study_type": "Meta-Analysis",
+    "category": "Mindset"
   },
   {
-    "id": "new-2025-pain-adherence",
-    "title": "痛みと運動継続：慢性痛患者が運動を続けるための「4つの鍵」—最新システマティックレビュー (2025)",
-    "source_url": "https://doi.org/10.1123/jpah.2024-0099",
-    "date": "2025-01-01",
-    "source_domain": "PubMed (JPAH)",
+    "id": "new-2026-hiit-waist",
+    "title": "短時間で腹部脂肪を撃退：低ボリュームHIITが「ウエスト周囲径」と「内臓脂肪」に効く最新メタ分析 (2026)",
+    "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1732253/full",
+    "date": "2026-01-30",
+    "source_domain": "Frontiers (Physiol)",
     "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Training"
+  },
+  {
+    "id": "new-2025-2",
+    "title": "クレアチンとうつ病：最新メタ分析が示す「補助療法」としての可能性と限界 (2025)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/41189312/",
+    "date": "2025-11-05",
+    "source_domain": "PubMed",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Nutrition"
+  },
+  {
+    "id": "new-2025-resistance-diet",
+    "title": "食事制限＋筋トレ＝最強の脂肪燃焼：筋肉を守りながら脂肪だけを落とす「確実な方法」 (2025)",
+    "source_url": "https://bmjopensem.bmj.com/content/11/3/e002363",
+    "date": "2025-09-02",
+    "source_domain": "BMJ Open SEM",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Training"
+  },
+  {
+    "id": "new-2025-1",
+    "title": "睡眠不足の代償：アスリートのスピード・スキル・持久力への悪影響を数値化する (2025)",
+    "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full",
+    "date": "2025-04-01",
+    "source_domain": "Frontiers (Physiol)",
+    "study_type": "Meta-Analysis",
     "category": "Recovery"
   },
   {
@@ -27,42 +54,6 @@
     "category": "Recovery"
   },
   {
-    "id": "new-2024-resistance-youth-mental",
-    "title": "若年層のうつ・不安症状に対するレジスタンストレーニングの有効性：システマティックレビュー＆メタ分析 (2024)",
-    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/eip.13528",
-    "date": "2024-05-06",
-    "source_domain": "Early Interv Psychiatry",
-    "study_type": "Syst. Review & Meta-Analysis",
-    "category": "Mindset"
-  },
-  {
-    "id": "new-2024-protein-performance",
-    "title": "タンパク質摂取と運動パフォーマンス：持久力と筋グリコーゲンへの効果を示すシステマティックレビュー＆メタ分析 (2024)",
-    "source_url": "https://www.frontiersin.org/articles/10.3389/fnut.2024.1455728/full",
-    "date": "2024-11-06",
-    "source_domain": "Frontiers (Nutr)",
-    "study_type": "Syst. Review & Meta-Analysis",
-    "category": "Nutrition"
-  },
-  {
-    "id": "new-2026-hiit-waist",
-    "title": "短時間で腹部脂肪を撃退：低ボリュームHIITが「ウエスト周囲径」と「内臓脂肪」に効く最新メタ分析 (2026)",
-    "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1732253/full",
-    "date": "2026-01-30",
-    "source_domain": "Frontiers (Physiol)",
-    "study_type": "Syst. Review & Meta-Analysis",
-    "category": "Training"
-  },
-  {
-    "id": "new-2025-resistance-diet",
-    "title": "食事制限＋筋トレ＝最強の脂肪燃焼：筋肉を守りながら脂肪だけを落とす「確実な方法」 (2025)",
-    "source_url": "https://bmjopensem.bmj.com/content/11/3/e002363",
-    "date": "2025-09-02",
-    "source_domain": "BMJ Open SEM",
-    "study_type": "Syst. Review & Meta-Analysis",
-    "category": "Training"
-  },
-  {
     "id": "new-2025-pilates-core",
     "title": "ピラティスで「天然のコルセット」を強化：腹横筋の厚みと収縮機能を改善する効果が実証される (2025)",
     "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11944116/",
@@ -70,33 +61,6 @@
     "source_domain": "PMC",
     "study_type": "Original Study",
     "category": "Training"
-  },
-  {
-    "id": "new-2026-music",
-    "title": "好みの音楽と限界突破：筋持久力・最大筋力・モチベーションへの効果を示す最新メタ分析 (2026)",
-    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12859869/",
-    "date": "2026-02-03",
-    "source_domain": "PMC (Frontiers)",
-    "study_type": "Meta-Analysis",
-    "category": "Mindset"
-  },
-  {
-    "id": "new-2025-adherence",
-    "title": "運動を続ける技術：専門家のサポートとグループワークが「継続率」を最大化するシステマティックレビュー (2025)",
-    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12784378/",
-    "date": "2025-01-09",
-    "source_domain": "PMC",
-    "study_type": "Syst. Review",
-    "category": "Behavior"
-  },
-  {
-    "id": "new-2024-fatigue",
-    "title": "脳の疲労は怪我のリスクも高める：精神的疲労がパフォーマンスと安全性に及ぼす影響の最新レビュー (2024)",
-    "source_url": "https://journals.humankinetics.com/view/journals/ijspp/19/10/article-p1158.xml",
-    "date": "2024-10-01",
-    "source_domain": "IJSPP",
-    "study_type": "Review",
-    "category": "Recovery"
   },
   {
     "id": "new-2025-6",
@@ -108,13 +72,49 @@
     "category": "Nutrition"
   },
   {
-    "id": "new-2025-5",
-    "title": "超加工食品と32の健康リスク：死亡率・メンタルヘルスへの悪影響を網羅した「アンブレラ・レビュー」の結論 (2024)",
-    "source_url": "https://www.bmj.com/content/384/bmj-2023-077310",
-    "date": "2024-02-28",
-    "source_domain": "BMJ",
-    "study_type": "Umbrella Review",
-    "category": "Health"
+    "id": "new-2025-adherence",
+    "title": "運動を続ける技術：専門家のサポートとグループワークが「継続率」を最大化するシステマティックレビュー (2025)",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12784378/",
+    "date": "2025-01-09",
+    "source_domain": "PMC",
+    "study_type": "Syst. Review",
+    "category": "Behavior"
+  },
+  {
+    "id": "new-2025-pain-adherence",
+    "title": "痛みと運動継続：慢性痛患者が運動を続けるための「4つの鍵」—最新システマティックレビュー (2025)",
+    "source_url": "https://doi.org/10.1123/jpah.2024-0099",
+    "date": "2025-01-01",
+    "source_domain": "PubMed (JPAH)",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Recovery"
+  },
+  {
+    "id": "2",
+    "title": "魚の摂取と抑うつリスク：114万人のデータが示すメンタルヘルスへの好影響 (2024)",
+    "source_url": "https://doi.org/10.3390/nu17243965",
+    "date": "2024-12-18",
+    "source_domain": "MDPI (Nutrients)",
+    "study_type": "Meta-Analysis",
+    "category": "Nutrition"
+  },
+  {
+    "id": "new-2024-protein-performance",
+    "title": "タンパク質摂取と運動パフォーマンス：持久力と筋グリコーゲンへの効果を示すシステマティックレビュー＆メタ分析 (2024)",
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fnut.2024.1455728/full",
+    "date": "2024-11-06",
+    "source_domain": "Frontiers (Nutr)",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Nutrition"
+  },
+  {
+    "id": "new-2024-fatigue",
+    "title": "脳の疲労は怪我のリスクも高める：精神的疲労がパフォーマンスと安全性に及ぼす影響の最新レビュー (2024)",
+    "source_url": "https://journals.humankinetics.com/view/journals/ijspp/19/10/article-p1158.xml",
+    "date": "2024-10-01",
+    "source_domain": "IJSPP",
+    "study_type": "Review",
+    "category": "Recovery"
   },
   {
     "id": "new-2025-4",
@@ -123,33 +123,6 @@
     "date": "2024-07-25",
     "source_domain": "PubMed (Heliyon)",
     "study_type": "Umbrella Meta-Analysis",
-    "category": "Nutrition"
-  },
-  {
-    "id": "new-2025-3",
-    "title": "時間制限食(TRE)の減量効果は「カロリー制限」が主因か？概日リズムとの関連を探るメタ分析 (2024)",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38357669/",
-    "date": "2024-01-26",
-    "source_domain": "PubMed (iScience)",
-    "study_type": "Syst. Review & Meta-Analysis",
-    "category": "Nutrition"
-  },
-  {
-    "id": "new-2025-1",
-    "title": "睡眠不足の代償：アスリートのスピード・スキル・持久力への悪影響を数値化する (2025)",
-    "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1544286/full",
-    "date": "2025-04-01",
-    "source_domain": "Frontiers (Physiol)",
-    "study_type": "Meta-Analysis",
-    "category": "Recovery"
-  },
-  {
-    "id": "new-2025-2",
-    "title": "クレアチンとうつ病：最新メタ分析が示す「補助療法」としての可能性と限界 (2025)",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/41189312/",
-    "date": "2025-11-05",
-    "source_domain": "PubMed",
-    "study_type": "Syst. Review & Meta-Analysis",
     "category": "Nutrition"
   },
   {
@@ -162,13 +135,22 @@
     "category": "Training"
   },
   {
-    "id": "2",
-    "title": "魚の摂取と抑うつリスク：114万人のデータが示すメンタルヘルスへの好影響 (2024)",
-    "source_url": "https://doi.org/10.3390/nu17243965",
-    "date": "2024-12-18",
-    "source_domain": "MDPI (Nutrients)",
-    "study_type": "Meta-Analysis",
-    "category": "Nutrition"
+    "id": "new-2024-digital-habit",
+    "title": "アプリで習慣は作れるか？デジタル介入における「セルフモニタリング」と「ゴール設定」の有効性 (2024)",
+    "source_url": "https://doi.org/10.2196/54375",
+    "date": "2024-05-24",
+    "source_domain": "JMIR",
+    "study_type": "Syst. Review",
+    "category": "Tech"
+  },
+  {
+    "id": "new-2024-resistance-youth-mental",
+    "title": "若年層のうつ・不安症状に対するレジスタンストレーニングの有効性：システマティックレビュー＆メタ分析 (2024)",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/eip.13528",
+    "date": "2024-05-06",
+    "source_domain": "Early Interv Psychiatry",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Mindset"
   },
   {
     "id": "3",
@@ -178,5 +160,23 @@
     "source_domain": "PMC",
     "study_type": "Original Study",
     "category": "Tech"
+  },
+  {
+    "id": "new-2025-5",
+    "title": "超加工食品と32の健康リスク：死亡率・メンタルヘルスへの悪影響を網羅した「アンブレラ・レビュー」の結論 (2024)",
+    "source_url": "https://www.bmj.com/content/384/bmj-2023-077310",
+    "date": "2024-02-28",
+    "source_domain": "BMJ",
+    "study_type": "Umbrella Review",
+    "category": "Health"
+  },
+  {
+    "id": "new-2025-3",
+    "title": "時間制限食(TRE)の減量効果は「カロリー制限」が主因か？概日リズムとの関連を探るメタ分析 (2024)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38357669/",
+    "date": "2024-01-26",
+    "source_domain": "PubMed (iScience)",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Nutrition"
   }
 ]
