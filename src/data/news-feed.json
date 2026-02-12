@@ -1,5 +1,50 @@
 [
   {
+    "id": "new-2024-digital-habit",
+    "title": "アプリで習慣は作れるか？デジタル介入における「セルフモニタリング」と「ゴール設定」の有効性 (2024)",
+    "source_url": "https://doi.org/10.2196/54375",
+    "date": "2024-05-24",
+    "source_domain": "JMIR",
+    "study_type": "Syst. Review",
+    "category": "Tech"
+  },
+  {
+    "id": "new-2025-pain-adherence",
+    "title": "痛みと運動継続：慢性痛患者が運動を続けるための「4つの鍵」—最新システマティックレビュー (2025)",
+    "source_url": "https://doi.org/10.1123/jpah.2024-0099",
+    "date": "2025-01-01",
+    "source_domain": "PubMed (JPAH)",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Recovery"
+  },
+  {
+    "id": "new-2025-cwi-recovery",
+    "title": "冷水浴(CWI)の「温度」と「時間」の最適解：筋損傷からの回復とパフォーマンス向上に関するネットワークメタ分析 (2025)",
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fphys.2025.1525726/full",
+    "date": "2025-02-26",
+    "source_domain": "Frontiers (Physiol)",
+    "study_type": "Network Meta-Analysis",
+    "category": "Recovery"
+  },
+  {
+    "id": "new-2024-resistance-youth-mental",
+    "title": "若年層のうつ・不安症状に対するレジスタンストレーニングの有効性：システマティックレビュー＆メタ分析 (2024)",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/eip.13528",
+    "date": "2024-05-06",
+    "source_domain": "Early Interv Psychiatry",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Mindset"
+  },
+  {
+    "id": "new-2024-protein-performance",
+    "title": "タンパク質摂取と運動パフォーマンス：持久力と筋グリコーゲンへの効果を示すシステマティックレビュー＆メタ分析 (2024)",
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fnut.2024.1455728/full",
+    "date": "2024-11-06",
+    "source_domain": "Frontiers (Nutr)",
+    "study_type": "Syst. Review & Meta-Analysis",
+    "category": "Nutrition"
+  },
+  {
     "id": "new-2026-hiit-waist",
     "title": "短時間で腹部脂肪を撃退：低ボリュームHIITが「ウエスト周囲径」と「内臓脂肪」に効く最新メタ分析 (2026)",
     "source_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1732253/full",
