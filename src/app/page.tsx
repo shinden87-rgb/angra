@@ -30,7 +30,8 @@ export default function Home() {
   const [isExpanded, setIsExpanded] = useState(false);
 
   useEffect(() => {
-    const sortedData = [...newsData].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    // データの並び順をJSONの記述順（＝アップロード順）のままにする
+    const sortedData = [...newsData];
     setNews(sortedData);
 
     const cats = ['All', ...Array.from(new Set(sortedData.map(item => item.category || 'Other')))];
